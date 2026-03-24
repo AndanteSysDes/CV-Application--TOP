@@ -28,6 +28,15 @@ Since the main goal is to refresh my memory on how to write React code, I’ve k
 ## Demo
 I'll add Demo page and Screenshot later.
 
+## Highlights
+I manage the status of data — whether it is in draft or final form — by switching between display cards and edit cards. 
+This improves code readability and maintainability. I focused on ensuring that the roles of each component are clearly defined.
+
+Data is managed using an array that contains objects.(Tuple type)
+Reasons:
+  - Arrays ensure the display order of each item
+  - Multiple items, such as internal keys and display labels, are managed within objects.
+
 ## Features to be added
 - Add multiple entries for education and work Experience
 - CSS Modernization
