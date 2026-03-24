@@ -1,0 +1,50 @@
+#root {
+  width: 100%;
+  max-width: 890px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.card {
+  background-color: #fff;
+
+  padding: 20px;
+  margin: 16px 0;
+  box-shadow: 0 0 4px #ccc;
+  border-radius: 5px;
+}
+
+.editing {
+  background-color: rgb(228, 228, 228);
+}
+
+.detail {
+  /* background-color: #fce; */
+
+  padding: 20px;
+}
+
+.button-area {
+  text-align: center;
+}
+
+.grid-container {
+  /* background-color: #eff; */
+
+  width: 100%;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 200px auto;
+}
+
+input {
+  font-size: 16px;
+}
+
+.detail {
+  white-space: pre-wrap;
+}
