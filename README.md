@@ -26,7 +26,9 @@ Since the main goal is to refresh my memory on how to write React code, I’ve k
  - By using React hooks, State and lifecycle method in Class components can be used.
 
 ## Demo
-I'll add Demo page and Screenshot later.
+[Demo page](https://cv-application-79huzzn5a-andantesysdes-projects.vercel.app/)
+
+<img width="1326" height="1545" alt="image" src="https://github.com/user-attachments/assets/65ba69d3-cfbd-4d0d-a25c-f7d3aac677d7" />
 
 ## Highlights
 I manage the status of data — whether it is in draft or final form — by switching between display cards and edit cards. 
